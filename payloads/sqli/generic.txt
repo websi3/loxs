@@ -2,10 +2,5 @@
 (sleep 10)
 (sleep(10))--
 (sleep(10))
--sleep(10)
-SLEEP(10)#
-SLEEP(10)--
-SLEEP(10)="
-SLEEP(10)='
-";sleep 10--
+
 

